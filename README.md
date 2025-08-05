@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">I am Akash Kumar, a passionate Full-Stack Developer and AI/ML enthusiast based in Patna, India. I love building impactful tech solutions and learning new technologies.</h3>
 
@@ -28,3 +29,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumarakshu&show_icons=true&locale=en&layout=compact" alt="kumarakshu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarakshu&" alt="kumarakshu" /></p>
+=======
+# Blood-Donation-Tracker
+>>>>>>> dedb5d9110429d50d05ce8d6ecbeec68d0a2fc50
